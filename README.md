@@ -32,7 +32,7 @@ Disclaimer
 This repository and its maintainers are not responsible for any misuse or illegal activity conducted by users of this repository. This project is intended solely for lawful and educational purposes. Any unauthorized or illegal use is strictly prohibited.
 
 Contact and Reporting
-If you have any questions about the intended use of this repository or if you encounter any content that may not comply with these guidelines, please contact us at [contact@example.com].
+If you have any questions about the intended use of this repository or if you encounter any content that may not comply with these guidelines, please contact us at [lapluh@proton.me].
 
 If you suspect misuse of SSNs or other personal data, we urge you to report it to the appropriate authorities.
 
